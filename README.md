@@ -1,6 +1,5 @@
 # Pneumonia Detection Project
 
-![Pneumonia Detection](path/to/your/project/banner/image.png)
 
 ## Overview
 
@@ -73,24 +72,11 @@ python train.py
 
 Predictions can be made on new images using the trained model. Example:
 
-```bash
-python predict.py --image path/to/image.jpg
-```
 
 ## Results
 
-### Augmented Validation Images
-
-![Augmented Validation Images](path/to/your/project/augmented_images.png)
-
-### Prediction Example
-
-![Prediction Example](path/to/your/project/prediction_example.png)
 
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
 
----
-
-Feel free to customize the content, file paths, and images according to your project structure and needs.
