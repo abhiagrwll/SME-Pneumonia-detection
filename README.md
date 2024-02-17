@@ -76,7 +76,4 @@ Predictions can be made on new images using the trained model. Example:
 ## Results
 
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
